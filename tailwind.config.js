@@ -4,10 +4,6 @@ module.exports = {
   content: ["./pages/**/*.{js,jsx}", "./components/**/*.{js,jsx}", "./app/**/*.{js,jsx}", "./src/**/*.{js,jsx}"],
   prefix: "",
   theme: {
-    container: {
-      center: true,
-      padding: "2rem",
-    },
     extend: {
       fontFamily: {
         sans: ["var(--font-dm_sans)"],
